@@ -13,3 +13,10 @@ data/
 .idea/
 .vscode/
 *.log
+
+# Personal/Test files
+test.py
+test_fadi.py
+s_test.py
+learn.py
+debug.py
